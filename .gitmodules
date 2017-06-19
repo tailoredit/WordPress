@@ -4,3 +4,6 @@
 [submodule "wp-content/plugins/wp-redis"]
 	path = wp-content/plugins/wp-redis
 	url = https://github.com/pantheon-systems/wp-redis.git
+[submodule "wp-content/mu-plugins/wp-native-php-sessions"]
+	path = wp-content/mu-plugins/wp-native-php-sessions
+	url = https://github.com/pantheon-systems/wp-native-php-sessions.git
