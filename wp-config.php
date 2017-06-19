@@ -117,6 +117,19 @@ endif;
 /** Standard wp-config.php stuff from here on down. **/
 
 /**
+ * Set up the WP-Redis plugin
+ *
+ * Configuration settings for Redis object caching. This information
+ * is available from the Pantheon Dashboard.
+ */
+// $redis_server = array(
+//     'host'     => '127.0.0.1',
+//     'port'     => 6379,
+//     'auth'     => '12345',
+//     'database' => 0, // Optionally use a specific numeric Redis database. Default is 0.
+// );
+
+/**
  * WordPress Database Table prefix.
  *
  * You can have multiple installations in one database if you give each a unique
