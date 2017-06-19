@@ -1,0 +1,6 @@
+[submodule "wp-content/plugins/solr-power"]
+	path = wp-content/plugins/solr-power
+	url = https://github.com/pantheon-systems/solr-power.git
+[submodule "wp-content/plugins/wp-redis"]
+	path = wp-content/plugins/wp-redis
+	url = https://github.com/pantheon-systems/wp-redis.git
